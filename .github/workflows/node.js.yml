@@ -1,4 +1,4 @@
-name: Node.js CI/CD flows
+name: Node.js CI/CD flowss
 
 on:
   push
