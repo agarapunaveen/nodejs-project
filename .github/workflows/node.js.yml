@@ -1,15 +1,9 @@
 name: Node.js CI/CD flowss
-
 on:
   push
-
 jobs:
   build:
-
     runs-on: self-hosted-runner
-
-    
-
     steps:
     - uses: actions/checkout@v4
     - name: Use Node.js 20
